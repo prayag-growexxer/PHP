@@ -12,7 +12,8 @@
         // include 'comparisonOperators.php';
         // include 'incrementDecrement.php';
         // include 'logicalOperators.php';
-        include 'stringOperators.php';
+        // include 'stringOperators.php';
+        include 'arrayOperators.php';
     ?>
 </body>
 </html>
