@@ -11,7 +11,8 @@
         // include 'assignmentOperators.php';
         // include 'comparisonOperators.php';
         // include 'incrementDecrement.php';
-        include 'logicalOperators.php';
+        // include 'logicalOperators.php';
+        include 'stringOperators.php';
     ?>
 </body>
 </html>
