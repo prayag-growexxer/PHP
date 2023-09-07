@@ -13,7 +13,8 @@
         // include 'incrementDecrement.php';
         // include 'logicalOperators.php';
         // include 'stringOperators.php';
-        include 'arrayOperators.php';
+        // include 'arrayOperators.php';
+        include 'conditionalOperators.php';
     ?>
 </body>
 </html>
