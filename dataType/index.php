@@ -7,10 +7,10 @@
 </head>
 <body>
     <?php 
-    // include 'alldatatype.php'
-    // include 'string_datatype.php'
-    // include 'number_datatype.php'
-    include 'math.php'
+    // include 'alldatatype.php';
+    // include 'string_datatype.php';
+    // include 'number_datatype.php';
+    include 'math.php';
     ?>
 </body>
 </html>
