@@ -8,7 +8,10 @@
 <body>
     <?php
         // include 'formHandling.php';
-        include 'formValidation.php';
+        // include 'formValidation.php';
+        // include 'forms_Required_Fields.php';
+        // include 'forms_URL.php';
+        include 'completeForm.php';
     ?>
 </body>
 </html>
