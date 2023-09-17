@@ -1,0 +1,4 @@
+delete all data 
+add new data 
+get old data
+append with new data

@@ -23,7 +23,9 @@
         echo $myProjectName."<br>";
         echo $startDate;
     ?>
-    
+    <br>
+    <?php include "button.php" ?>
+    <br>
     <?php include "copy.php" ?>
 
 
