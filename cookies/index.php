@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-        include 'create_cookies.php';
+        // include 'create_cookies.php';
+        include 'modify_cookies.php';
     ?>
 </body>
 </html>
