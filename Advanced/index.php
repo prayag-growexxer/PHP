@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-        include 'data_and_time.php'
+        // include 'data_and_time.php';
+        include 'callback_function.php'
     ?>
 </body>
 </html>
